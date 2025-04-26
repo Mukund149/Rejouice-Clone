@@ -22,7 +22,7 @@ The goal of this project was to reverse-engineer the website’s intricate anima
 - **Custom Cursor**: Developed using JavaScript to trigger animations when interacting with page elements.
 
 ## Live Demo
-View the live demo of the project [here]([https://your-demo-link.com](https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/)) .
+View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/))] .
 
 ## How to Run Locally
 1. Build your own
