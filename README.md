@@ -25,9 +25,9 @@ Focused on replicating core animations, transitions, and interactivity — craft
 ---
 
 ## Note 📌
-Focused on core interactive pages (landing, text, showcase).
-Best viewed on desktop for full animation effects.
-This is a personal educational project — no commercial use.
+- Focused on core interactive pages (landing, text, showcase).
+- Best viewed on desktop for full animation effects.
+- This is a personal educational project — no commercial use.
 
 ## Live Demo
 View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/))] .
@@ -38,4 +38,4 @@ View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubbl
 ---
 
 ## Built by 👨‍💻
-Mukund Taneja — Passionate about building websites that aren't just websites, but experiences. 🚀
+**Mukund Taneja** — Passionate about building websites that aren't just websites, but experiences. 🚀
