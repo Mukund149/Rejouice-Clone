@@ -1,6 +1,6 @@
 ## Rejouice Website Clone ✨
-A high-fidelity recreation of the award-winning Rejouice.com, built with HTML, CSS, JAVASCRIPT, GSAP, and Locomotive Scroll.
-Focused on replicating core animations, transitions, and interactivity — crafted to elevate frontend skills to an award-winning level.
+- A high-fidelity recreation of the award-winning Rejouice.com, built with HTML, CSS, JAVASCRIPT, GSAP, and Locomotive Scroll.
+- Focused on replicating core animations, transitions, and interactivity — crafted to elevate frontend skills to an award-winning level.
 
 ---
 
