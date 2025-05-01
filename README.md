@@ -1,9 +1,9 @@
+## Live Demo
+View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/))] .
+
 ## Rejouice Website Clone ✨
 - A high-fidelity recreation of the award-winning Rejouice.com, built with HTML, CSS, JAVASCRIPT, GSAP, and Locomotive Scroll.
 - Focused on replicating core animations, transitions, and interactivity — crafted to elevate frontend skills to an award-winning level.
-
-- ## Live Demo
-View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/))] .
 
 ---
 
