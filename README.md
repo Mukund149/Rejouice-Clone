@@ -39,4 +39,4 @@ View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubbl
 ---
 
 ## Built by 👨‍💻
-**Mukund Taneja** — Passionate about building websites that aren't just websites, but experiences. 🚀
+**Mukund Taneja** — Building websites that aren't just websites, but experiences. 🚀
