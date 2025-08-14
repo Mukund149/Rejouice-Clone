@@ -1,42 +1,60 @@
-## Live Demo
-View the live demo of the project [(https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/))] .
+# ✨ Rejouice.com Website Clone — High-Fidelity Award-Winning Recreation
 
-## Rejouice Website Clone ✨
-- A high-fidelity recreation of the award-winning Rejouice.com, built with HTML, CSS, JAVASCRIPT, GSAP, and Locomotive Scroll.
-- Focused on replicating core animations, transitions, and interactivity — crafted to elevate frontend skills to an award-winning level.
+A **pixel-perfect, animation-rich recreation** of the award-winning [Rejouice.com](https://rejouice.com), built from scratch with **HTML, CSS, JavaScript, GSAP**, and **Locomotive Scroll**.  
 
----
-
-## Key Highlights 🚀
-- **Custom Animated Cursor**: A unique cursor that interacts with the page content and triggers animations.
-- **Hover-to-Play Video Reels**: Interactive hover effects that reveal hidden video reels upon mouse interaction.
-- **Scroll-Triggered Animations**: Smooth animations and transitions triggered by scrolling, including text and background animations.
-- **Text Rise Animations**: Dynamic text effects that rise and fade in as users scroll down the page.
-- **Smooth Scrolling**: Custom scroll behavior using Locomotive Scroll for a smooth, natural scrolling experience.
+This project reverse-engineers the original site’s **signature animations, transitions, and interactivity**, serving as both a **frontend animation showcase** and a personal deep dive into Awwwards-level web experience design.  
 
 ---
 
-## Tech Stack 🛠️
-- **HTML**: Structure and content of the page.
-- **CSS (Flexbox, Grid)**: Layout and styling, including animations and transitions.
-- **JavaScript**:
-  - **GSAP** (GreenSock Animation Platform): For smooth animations and scroll-triggered effects.
-  - **Locomotive Scroll**: For smooth scrolling and scroll animations.
-  - **Combined with custom animations all over the site**
-- **Custom Cursor**: Developed using JavaScript to trigger animations when interacting with page elements.
+## ⚡ Key Highlights
+
+- **Custom Animated Cursor** — A dynamic, interactive cursor that triggers animations on hover.  
+- **Hover-to-Play Video Reels** — Reveal hidden video reels with smooth transitions on mouse hover.  
+- **Scroll-Triggered Animations** — GSAP-powered text, background, and element animations triggered by scroll events.  
+- **Text Rise Effects** — Dynamic text that animates upward and fades in as you scroll.  
+- **Smooth Scrolling** — Locomotive Scroll integration for buttery-smooth, inertia-based scrolling.  
+- **High-Fidelity Layout** — Faithfully replicated typography, spacing, and visual hierarchy from the original site.  
 
 ---
 
-## Note 📌
-- Focused on core interactive pages (landing, text, showcase).
-- Best viewed on desktop for full animation effects.
-- This is a personal educational project — no commercial use.
+## 🛠 Tech Stack
 
-
-## How to Run Locally
-1. Build your own
+| Layer         | Tools / Libraries |
+|---------------|-------------------|
+| Structure     | HTML5 |
+| Styling       | CSS3 (Flexbox, Grid, Animations) |
+| Interactivity | JavaScript (ES6) |
+| Animations    | GSAP (GreenSock Animation Platform) |
+| Scrolling     | Locomotive Scroll |
+| Custom Cursor | JavaScript-based interactive cursor system |
 
 ---
 
-## Built by 👨‍💻
-**Mukund Taneja** — Building websites that aren't just websites, but experiences. 🚀
+## 🎯 Project Goals
+
+- Study and replicate **award-winning interaction design** techniques.  
+- Strengthen **GSAP and Locomotive Scroll** animation skills.  
+- Learn how to blend performance with rich visual effects.  
+- Showcase an ability to deliver **visually stunning frontend builds** without relying on frameworks.  
+
+---
+
+## 📸 Live Demo
+
+🔗 [**View Live Demo**](https://680cbaa02861aded692a1739--meek-bubblegum-79fc20.netlify.app/)  
+
+> Best viewed on desktop for full animation fidelity.  
+
+---
+
+## 📌 Notes
+
+- Focused on **core interactive pages** — landing, text showcase, and featured reels.  
+- Created purely for **educational purposes** and **personal skill development**.  
+- No commercial use or affiliation with the original Rejouice.com.  
+
+---
+
+✨ Author
+
+Mukund Taneja
